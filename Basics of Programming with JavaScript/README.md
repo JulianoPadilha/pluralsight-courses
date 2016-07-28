@@ -3,3 +3,4 @@
 ## Links recomendados
 
 [jsforcats.com](jsforcats.com)
+[Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) - E-book
