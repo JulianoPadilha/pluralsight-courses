@@ -144,6 +144,105 @@ cat['Eye color'] = 'Green';
 console.log(cat['color']);
 ```
 
+## JavaScript Prototype
+
+- O que é um Prototype?
+
+Um prototype é um objeto que existe em cada função dem JavaScript.
+
+Se criarmos uma função, perceba que ela tem uma propriedade chamado prototype.
+
+```js
+var myFunction = function(){}
+console.log(myFunction.prototype);
+// {
+//}
+```
+
+Perceba também que prototype é um objeto vazio.
+
+Objetos, contudo, não possuem uma propriedade 'prototype'.
+
+Se criamos um novo objeto e tentarmos ver sua propriedade prototype, será undefined.
+
+```js
+var cat = {name: 'Fluffy'};
+
+console.log(cat.prototype);
+// undefined
+```
+
+Contudo, um objeto possui uma propriedade '__proto__'.
+
+```js
+var cat = {name: 'Fluffy'};
+
+console.log(cat.__proto__);
+// Object {
+//}
+```
+
+Então, de fato, um objeto tem uma propriedade prototype definida. Porém, o prototype de um objeto e o prototype de uma função são usados diferentemente.
+
+### A function's prototype
+
+O prototype de uma função é a instância de um objeto que se torna um prototype para todos os objetos criados usando essa função como um construtor.
+
+### An object's prototype
+
+O prototype de um objeto é a instância de um objeto do qual um objeto é herdado.
+
+Um prototype não é como um Classe. Um prototype é na verdade um objeto (Tudo em JS é um objeto).
+
+Exemplos:
+
+```js
+'use strict';
+
+function Cat(){
+    this.name = name;
+    this.color = color;
+}
+
+var fluffy = new Cat('Fluffy', 'White');
+
+console.log(Cat.prototype);
+// Cat {
+//}
+console.log(fluffy.__proto__);
+// Cat {
+//}
+
+console.log(Cat.prototype === fluffy.__proto__);
+// true
+```
+
+Ambos os protótipos estão apontando para exatamente a mesma instância de um objeto.
+
+Adicionar uma propridade para a função de um prototype afeta todos os objetos construídos usando esta função.
+
+```js
+'use strict';
+
+function Cat(){
+    this.name = name;
+    this.color = color;
+}
+
+var fluffy = new Cat('Fluffy', 'White');
+
+Cat.prototype.age = 3;
+
+console.log(Cat.prototype);
+// Cat {
+//  age: 3    
+//}
+console.log(fluffy.__proto__);
+// Cat {
+//  age: 3    
+//}
+
+```
 
 
 ## Links citados
