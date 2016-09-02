@@ -1,0 +1,394 @@
+/*        Browser Reset         */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/*        HTML5 display-role reset for older browsers         */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* -----------------  COLOR GUIDE -----------------
+    _____________
+    Oranges:
+    Orange #e79433
+    Dark Orange #bd6010
+    _____________
+    Hot Pink: 
+    #bc1642
+    _____________
+    Black:
+    #0f0f0f
+    _____________
+    White:
+    #f4f3f2
+-----------------------------------------------------*/
+/* -------------------Clearing–––––––––––––––––––––– */
+.clear-fix {
+  content: "";
+  display: table;
+  clear: both; 
+}
+
+.clear {
+   clear: both; 
+}
+
+/* --------------- Type ------------------ */
+
+h1, h2, h3, h4, h5, h6, p, aside {
+    font-family: Roboto, Calibri, Helvetica, Arial, sans-serif;
+    max-width: 760px;
+}
+
+p, aside {
+    color: #0f0f0f;
+}
+
+h2, h3, h4, h5, h6 {
+    font-weight: 500;  
+    color: #363636;
+}
+h1 {
+  font-size: 4.611111111em;
+  line-height: 1.012048194em;
+  margin-top: 0.6746988em;
+  margin-bottom: 0.3373494em;
+  color: #bc1642;
+}
+
+h2 {
+  font-size: 2.777777778em;
+  line-height: 1.12em;
+  margin-top: 1.12em;+
+  margin-bottom: 0.56em;
+}
+h3 {
+  font-size: 1.666666667em;
+  line-height: 1.866666666em;
+  margin-top: 0.93333333em;
+  margin-bottom: 0.93333333em;
+}
+h4, .subheading {
+  font-size: 1em;
+  line-height: 1.555555556em;
+  margin-top: 1.55555556em;
+  margin-bottom: 1.55555556em;  
+  text-transform: uppercase;
+  color: #838383;
+}
+p, ul, ol, pre, table, blockquote {
+  margin-top: 1.55555556em;
+  margin-bottom: 1.55555556em;
+}
+
+/* ------------------- Links ------------------*/
+
+a {
+  color: #bc1642;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+  a:visited {
+    color: #77132e;
+  }
+
+  a:hover {
+    color: #fa205a;
+  }
+
+  a:active {
+    color: #e79433;
+  }
+
+/* -------------------Main styles-------------------*/
+body {
+  font-family: Roboto, Calibri, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  background-color: #f4f3f2;
+  color: #0f0f0f;
+  font-size: 1.125em;
+}
+
+button {
+  display: block; 
+}
+
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+
+.secondary-page {
+    padding: 2em;
+    line-height: 1.555555556em;
+}
+
+.article {
+    padding: 0 0 1em 0;
+}
+
+    .article-image img {
+        width: 100%;
+    }
+    .article-image .article-caption {
+        margin-top: 0;
+        font-size: 0.8em;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+.sidebar {
+    padding: 2em;
+    background-color: #e6e6e6; 
+}
+
+.sidebar h2 {
+    font-weight: 300;
+}
+
+.sidebar li {
+    margin-bottom: 1em;
+}
+
+.sidebar a[href="#"] {
+    /* for testing color only */
+    color: #bc1642;
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+@media screen and (min-width: 780px){  
+ .article {
+    padding: 0 4em 1em 0;
+ }
+
+}
+
+@media screen and (min-width: 1094px){
+  .sidebar {
+      float: right;
+      max-width: 26%;
+  }
+ 
+    .secondary-page h1 {
+        font-family: "Roboto Condensed";
+    }
+    
+    .secondary-page h3 {
+        clear: left;
+    }
+    
+    .secondary-page .news {
+        float: left;
+        max-width: 62%;
+    }
+}
+
+@media screen and (min-width: 1160px){
+        
+ .article {
+    padding: 0 1.5em 1em 0;
+ }
+    
+    .secondary-page {
+        margin: 0 auto;
+    }
+    
+    .sidebar li {
+        max-width: 300px;
+    }
+}
+
+/* --------------- Main Navigation ------------------ */
+
+.header {
+    background: #292929;
+}
+
+.main-nav { 
+  width: 100%;
+  font-family: "Roboto Condensed";
+  font-weight: 300;
+}
+
+.logo img {
+    width: 250px;
+}
+
+.main-nav li {
+    text-transform: uppercase;
+    font-weight: 300;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #262626;
+}
+
+.main-nav ul a {
+   display: block;  
+   padding: 20px 0;
+   color: #ffffff;
+   font-weight: 300;
+   width: 100%;
+}
+  .main-nav ul a:visited {
+     color: #a3a3a3;
+  }
+  .main-nav ul a:hover {
+     color: #e79433;
+     transition: .5s all;
+  }
+  .main-nav ul a:active {
+     color: #bd6010;
+  }
+
+@media screen and  (min-width: 580px){
+  .logo {
+        width: 400px;
+        margin: 0 auto;
+  }
+}
+
+
+@media screen and (min-width: 1280px){
+
+  .logo {
+      float: left;
+      width: 300px;
+  }
+    
+    .main-nav {
+     padding: 10px 0 20px;
+     clear: none;
+    }  
+    
+  .main-nav li {
+    border-bottom: none;
+  }
+  
+  .main-nav ul a {
+     display: block;  
+     padding: 20px 0;
+     width: 10%;
+     margin-right: 1%;
+     margin-top: 10px;
+     float: left;
+  }
+  
+  .main-nav ul a:first-of-type {
+      margin-left: 50px;
+  }
+    
+  .donate {
+    display: block;
+  }
+  
+    .main-nav .donate a {
+      border: 1px solid #8b8a8a;
+      padding: 10px 0;
+      margin-top: 20px;
+    } 
+  
+      .main-nav .donate a:hover {
+          border: 1px solid #a8143c;
+          transition: 1s all;
+        }
+} /* close min-width: 1280px */
+
+/* --------------- Form Styles ------------------ */
+
+.form label {
+    display: block;
+    margin: 0 0 1em 0;
+}
+
+.form input {
+    padding: 10px;
+    border: none;
+    background: rgb(199, 199, 199);
+}
+
+.form legend {
+  font-size: 1.666666667em;
+  line-height: 1.866666666em;
+  margin-top: 0.93333333em;
+  margin-bottom: 0.93333333em;
+}
+
+.form p {
+    margin-top: 0;
+}
+
+.form fieldset {
+    border: 1px solid rgb(70, 70, 70);
+    padding: 0 15px;
+}
+
+.form button {
+    border: none;
+    padding: .5em 2em;  
+    margin-top: 1em;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    background-color:  #e79433;
+    color: #f4f3f2;
+    font-family: "roboto";
+}
+
+.form button:hover {
+    background-color: #ffac4b;
+}
+
+.form-section {
+    border-top: 1px solid;
+    padding: .5em 0;
+    margin: .5em 0;
+}
+/* --------------- Footer ------------------ */
+.footer {
+  margin-top: 2em;
+  background-color: #292929;
+  padding: 40px 0;
+}
+
+.footer p {
+    color: #f4f3f2; 
+    text-align: center;
+}
+
+

@@ -1,0 +1,94 @@
+/*! responsive-nav.js 1.0.34 by @viljamis */
+
+.nav-collapse ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: block;
+  list-style: none;
+}
+
+.nav-collapse li {
+  width: 100%;
+  display: block;
+}
+
+.nav-collapse img {
+  margin-left: 20%;
+}
+
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.nav-collapse.opened {
+  max-height: 9999px;
+}
+
+.nav-toggle {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  font-family: "Roboto Condensed";
+  font-weight: 100;  
+  padding: 20px 20px 20px 35px ;
+  position: relative;
+  right: 15px;
+  text-transform: uppercase;
+  float: right;
+  background-color: rgba(0,0,0,.3);
+  margin: -55px 0 0 10px;
+}
+/* Pure CSS Hamburger Icon */
+.nav-toggle:before {
+  content: "";
+  position: absolute;
+  top: 1.32em;
+  left: .7em;
+  width: 1em;
+  height: 0.125em;
+  border-top: 0.375em double #dedede;
+  border-bottom: 0.125em solid #dedede;
+}
+@media screen and (min-width: 980px) {
+  
+  .nav-toggle {
+    margin: 25px 0 0 10px;
+    display: block;
+  }
+  
+}
+
+  .nav-toggle:hover {
+    background-color: rgba(0,0,0,.6);
+    box-shadow: 2px 1px 3px rgb(46, 46, 46);
+  }
+  a.nav-toggle {
+    color: #ebebeb;  
+  }
+  
+    a.nav-toggle:hover {
+      color: #fac062;
+      transition: .5s all;
+    }
+
+@media screen and (min-width: 1280px) {
+  .js .nav-collapse {
+    position: relative;
+  }
+  .js .nav-collapse.closed {
+    max-height: none;
+  }
+  .nav-toggle {
+    display: none;
+  }
+}
+*/

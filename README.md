@@ -1,7 +1,10 @@
 # Pluralsight Courses
 
 - [X] Responsive HTML E-mail Design
-- [ ] HTML5 Fundamentals
+
+## HTML5
+- [X] HTML5 Fundamentals
+- [ ] Semantic HTML
 
 ## JavaScript - Beginner
 - [X] Basics of Programming with JavaScript
