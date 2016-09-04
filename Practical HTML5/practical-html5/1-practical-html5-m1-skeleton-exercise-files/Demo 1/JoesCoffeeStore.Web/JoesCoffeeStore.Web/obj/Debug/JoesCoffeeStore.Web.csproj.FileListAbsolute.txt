@@ -1,0 +1,12 @@
+C:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb
+D:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+D:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+D:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+D:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+D:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+D:\Dropbox\Work\PluralSight\Practical HTML5\Demo\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb

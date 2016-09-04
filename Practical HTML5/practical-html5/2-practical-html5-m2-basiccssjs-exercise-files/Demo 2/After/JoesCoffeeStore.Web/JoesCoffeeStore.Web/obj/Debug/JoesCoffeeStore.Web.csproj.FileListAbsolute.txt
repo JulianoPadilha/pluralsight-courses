@@ -1,0 +1,30 @@
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m1-skeleton\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 1\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 1\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 1\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 1\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 1\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 1\Begin\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\Begin - Copy\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\Begin - Copy\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\Begin - Copy\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\Begin - Copy\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\Begin - Copy\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\Begin - Copy\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.dll
+C:\Dropbox\Work\PluralSight\Practical HTML5\practical-html5-m2-basiccssjs\Demos\Demo 2\End\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\Debug\JoesCoffeeStore.Web.pdb
