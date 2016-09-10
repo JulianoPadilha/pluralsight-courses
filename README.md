@@ -6,7 +6,8 @@
 ## HTML5
 - [X] HTML5 Fundamentals
 - [X] Semantic HTML
-- [ ] Practical HTML5
+- [X] Practical HTML5
+- [ ] HTML5 Web Component Fundamentals
 
 ## JavaScript - Beginner
 - [X] Basics of Programming with JavaScript
